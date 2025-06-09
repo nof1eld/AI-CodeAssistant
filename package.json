@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cohere-ai": "^7.17.1",
+    "readline": "^1.3.0"
+  }
+}
